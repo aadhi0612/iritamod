@@ -3,8 +3,8 @@ package identity
 // nolint
 
 import (
-	"github.com/bianjieai/iritamod/modules/identity/keeper"
-	"github.com/bianjieai/iritamod/modules/identity/types"
+	"github.com/aadhi0612/iritamod/modules/identity/keeper"
+	"github.com/aadhi0612/iritamod/modules/identity/types"
 )
 
 const (

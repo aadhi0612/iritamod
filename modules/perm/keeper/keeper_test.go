@@ -11,9 +11,9 @@ import (
 	"github.com/cosmos/cosmos-sdk/codec"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/bianjieai/iritamod/modules/perm/keeper"
-	"github.com/bianjieai/iritamod/modules/perm/types"
-	"github.com/bianjieai/iritamod/simapp"
+	"github.com/aadhi0612/iritamod/modules/perm/keeper"
+	"github.com/aadhi0612/iritamod/modules/perm/types"
+	"github.com/aadhi0612/iritamod/simapp"
 )
 
 type KeeperTestSuite struct {

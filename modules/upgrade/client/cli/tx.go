@@ -8,7 +8,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/client/tx"
 	upgradecli "github.com/cosmos/cosmos-sdk/x/upgrade/client/cli"
 
-	"github.com/bianjieai/iritamod/modules/upgrade/types"
+	"github.com/aadhi0612/iritamod/modules/upgrade/types"
 )
 
 func GetTxCmd() *cobra.Command {

@@ -13,7 +13,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/version"
 
-	"github.com/bianjieai/iritamod/modules/opb/types"
+	"github.com/aadhi0612/iritamod/modules/opb/types"
 )
 
 func NewTxCmd() *cobra.Command {

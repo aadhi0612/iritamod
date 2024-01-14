@@ -13,7 +13,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/rest"
 
-	"github.com/bianjieai/iritamod/modules/identity/types"
+	"github.com/aadhi0612/iritamod/modules/identity/types"
 )
 
 func registerTxRoutes(clientCtx client.Context, r *mux.Router) {

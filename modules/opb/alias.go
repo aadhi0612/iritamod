@@ -1,8 +1,8 @@
 package opb
 
 import (
-	"github.com/bianjieai/iritamod/modules/opb/keeper"
-	"github.com/bianjieai/iritamod/modules/opb/types"
+	"github.com/aadhi0612/iritamod/modules/opb/keeper"
+	"github.com/aadhi0612/iritamod/modules/opb/types"
 )
 
 const (

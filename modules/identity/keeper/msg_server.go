@@ -6,7 +6,7 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/bianjieai/iritamod/modules/identity/types"
+	"github.com/aadhi0612/iritamod/modules/identity/types"
 )
 
 type msgServer struct {

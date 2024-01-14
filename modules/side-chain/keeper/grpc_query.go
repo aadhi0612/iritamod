@@ -7,7 +7,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/query"
 
-	"github.com/bianjieai/iritamod/modules/side-chain/types"
+	"github.com/aadhi0612/iritamod/modules/side-chain/types"
 )
 
 func (k Keeper) Space(goCtx context.Context, request *types.QuerySpaceRequest) (*types.QuerySpaceResponse, error) {

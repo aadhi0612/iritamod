@@ -19,7 +19,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/version"
 
-	"github.com/bianjieai/iritamod/modules/node/types"
+	"github.com/aadhi0612/iritamod/modules/node/types"
 )
 
 var defaultPower = 100

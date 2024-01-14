@@ -8,7 +8,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	paramskeeper "github.com/cosmos/cosmos-sdk/x/params/keeper"
 
-	"github.com/bianjieai/iritamod/modules/params/types"
+	"github.com/aadhi0612/iritamod/modules/params/types"
 )
 
 // Keeper define a slashing keeper

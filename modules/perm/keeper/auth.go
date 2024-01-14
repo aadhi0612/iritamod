@@ -5,7 +5,7 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/bianjieai/iritamod/modules/perm/types"
+	"github.com/aadhi0612/iritamod/modules/perm/types"
 )
 
 // SetAuth sets the auth for an address

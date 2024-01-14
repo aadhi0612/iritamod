@@ -4,8 +4,8 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 
-	"github.com/bianjieai/iritamod/modules/upgrade/keeper"
-	"github.com/bianjieai/iritamod/modules/upgrade/types"
+	"github.com/aadhi0612/iritamod/modules/upgrade/keeper"
+	"github.com/aadhi0612/iritamod/modules/upgrade/types"
 )
 
 func NewHandler(k keeper.Keeper) sdk.Handler {

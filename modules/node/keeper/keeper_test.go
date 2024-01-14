@@ -16,10 +16,10 @@ import (
 	cryptocodec "github.com/cosmos/cosmos-sdk/crypto/codec"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/bianjieai/iritamod/modules/node/keeper"
-	"github.com/bianjieai/iritamod/modules/node/types"
-	"github.com/bianjieai/iritamod/simapp"
-	cautil "github.com/bianjieai/iritamod/utils/ca"
+	"github.com/aadhi0612/iritamod/modules/node/keeper"
+	"github.com/aadhi0612/iritamod/modules/node/types"
+	"github.com/aadhi0612/iritamod/simapp"
+	cautil "github.com/aadhi0612/iritamod/utils/ca"
 )
 
 type KeeperTestSuite struct {

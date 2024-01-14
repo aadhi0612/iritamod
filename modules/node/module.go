@@ -22,10 +22,10 @@ import (
 	"github.com/cosmos/cosmos-sdk/types/module"
 	simtypes "github.com/cosmos/cosmos-sdk/types/simulation"
 
-	"github.com/bianjieai/iritamod/modules/node/client/cli"
-	"github.com/bianjieai/iritamod/modules/node/client/rest"
-	"github.com/bianjieai/iritamod/modules/node/keeper"
-	"github.com/bianjieai/iritamod/modules/node/types"
+	"github.com/aadhi0612/iritamod/modules/node/client/cli"
+	"github.com/aadhi0612/iritamod/modules/node/client/rest"
+	"github.com/aadhi0612/iritamod/modules/node/keeper"
+	"github.com/aadhi0612/iritamod/modules/node/types"
 )
 
 var (

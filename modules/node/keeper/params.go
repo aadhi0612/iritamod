@@ -6,7 +6,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	paramtypes "github.com/cosmos/cosmos-sdk/x/params/types"
 
-	"github.com/bianjieai/iritamod/modules/node/types"
+	"github.com/aadhi0612/iritamod/modules/node/types"
 )
 
 // Default parameter namespace

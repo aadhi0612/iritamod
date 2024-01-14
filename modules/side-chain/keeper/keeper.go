@@ -4,7 +4,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/codec"
 	storetypes "github.com/cosmos/cosmos-sdk/store/types"
 
-	"github.com/bianjieai/iritamod/modules/side-chain/types"
+	"github.com/aadhi0612/iritamod/modules/side-chain/types"
 )
 
 type Keeper struct {

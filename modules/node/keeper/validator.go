@@ -17,8 +17,8 @@ import (
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 	staking "github.com/cosmos/cosmos-sdk/x/staking/types"
 
-	"github.com/bianjieai/iritamod/modules/node/types"
-	cautil "github.com/bianjieai/iritamod/utils/ca"
+	"github.com/aadhi0612/iritamod/modules/node/types"
+	cautil "github.com/aadhi0612/iritamod/utils/ca"
 )
 
 // SetHooks sets the validator hooks

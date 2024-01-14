@@ -5,7 +5,7 @@ package iritamod.side_chain.v1;
 import "gogoproto/gogo.proto";
 import "side-chain/v1/side-chain.proto";
 
-option go_package = "github.com/bianjieai/iritamod/modules/side-chain/types";
+option go_package = "github.com/aadhi0612/iritamod/modules/side-chain/types";
 
 // Msg defines the side-chain module service
 service Msg {

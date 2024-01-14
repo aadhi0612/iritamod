@@ -8,7 +8,7 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	cautil "github.com/bianjieai/iritamod/utils/ca"
+	cautil "github.com/aadhi0612/iritamod/utils/ca"
 )
 
 const certStr = `-----BEGIN CERTIFICATE-----

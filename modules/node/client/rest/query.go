@@ -9,8 +9,8 @@ import (
 	"github.com/cosmos/cosmos-sdk/client"
 	"github.com/cosmos/cosmos-sdk/types/rest"
 
-	"github.com/bianjieai/iritamod/modules/node/client/utils"
-	"github.com/bianjieai/iritamod/modules/node/types"
+	"github.com/aadhi0612/iritamod/modules/node/client/utils"
+	"github.com/aadhi0612/iritamod/modules/node/types"
 )
 
 func registerQueryRoutes(clientCtx client.Context, r *mux.Router) {

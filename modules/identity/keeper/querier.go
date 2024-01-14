@@ -9,7 +9,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 
-	"github.com/bianjieai/iritamod/modules/identity/types"
+	"github.com/aadhi0612/iritamod/modules/identity/types"
 )
 
 // NewQuerier creates a new identity Querier instance

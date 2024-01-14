@@ -8,7 +8,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 
-	"github.com/bianjieai/iritamod/modules/perm/types"
+	"github.com/aadhi0612/iritamod/modules/perm/types"
 )
 
 const DefaultLimit = 100

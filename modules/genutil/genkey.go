@@ -8,7 +8,7 @@ import (
 	ed25519util "github.com/tendermint/tendermint/crypto/ed25519"
 	"github.com/tendermint/tendermint/crypto/sm2"
 
-	cautil "github.com/bianjieai/iritamod/utils/ca"
+	cautil "github.com/aadhi0612/iritamod/utils/ca"
 )
 
 func Genkey(privKey crypto.PrivKey) ([]byte, error) {

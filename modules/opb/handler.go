@@ -4,7 +4,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 
-	"github.com/bianjieai/iritamod/modules/opb/keeper"
+	"github.com/aadhi0612/iritamod/modules/opb/keeper"
 )
 
 // NewHandler returns the message handler for mint module

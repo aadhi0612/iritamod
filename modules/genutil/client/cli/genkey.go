@@ -13,7 +13,7 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/server"
 
-	"github.com/bianjieai/iritamod/modules/genutil"
+	"github.com/aadhi0612/iritamod/modules/genutil"
 )
 
 var (

@@ -5,7 +5,7 @@ import "opb/opb.proto";
 import "gogoproto/gogo.proto";
 import "google/api/annotations.proto";
 
-option go_package = "github.com/bianjieai/iritamod/modules/opb/types";
+option go_package = "github.com/aadhi0612/iritamod/modules/opb/types";
 
 // Query defines the gRPC querier service for the OPB module
 service Query {

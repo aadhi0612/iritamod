@@ -41,23 +41,23 @@ Ref: https://keepachangelog.com/en/1.0.0/
 
 ### Improvements
 
-* (iritamod/sidechain) [\#90](https://github.com/bianjieai/iritamod/pull/90) enhance side-chain module query
-* (iritamod/perm) [\#90](https://github.com/bianjieai/iritamod/pull/90) correct name for side-chain user role
+* (iritamod/sidechain) [\#90](https://github.com/aadhi0612/iritamod/pull/90) enhance side-chain module query
+* (iritamod/perm) [\#90](https://github.com/aadhi0612/iritamod/pull/90) correct name for side-chain user role
 
 ### Bug Fixes
 
-* (iritamod/perm) [\#90](https://github.com/bianjieai/iritamod/pull/90) multiple transfer space msgs should fail 
+* (iritamod/perm) [\#90](https://github.com/aadhi0612/iritamod/pull/90) multiple transfer space msgs should fail 
 
 ## [v1.4.0] - 2023-07-18
 
 ### Application
 
-* (iritamod) [\#74](https://github.com/bianjieai/iritamod/pull/73) add side-chain module
+* (iritamod) [\#74](https://github.com/aadhi0612/iritamod/pull/73) add side-chain module
 
 
 ### Bug Fixes
 
-* (iritamod) [\#69](https://github.com/bianjieai/iritamod/pull/69) blocked feegranter should be blocked
+* (iritamod) [\#69](https://github.com/aadhi0612/iritamod/pull/69) blocked feegranter should be blocked
 
 
 ## [v1.3.0] - 2022-08-08
@@ -93,12 +93,12 @@ Ref: https://keepachangelog.com/en/1.0.0/
 - Add modules `perm`, `params`, `node`, `slashing`, `identity`, `upgrade`.
 
 <!-- Release links -->
-[v1.2.0]: https://github.com/bianjieai/iritamod/releases/tag/v1.2.0
-[v1.1.1]: https://github.com/bianjieai/iritamod/releases/tag/v1.1.1
-[v1.1.0]: https://github.com/bianjieai/iritamod/releases/tag/v1.1.0
-[v1.0.0]: https://github.com/bianjieai/iritamod/releases/tag/v1.0.0
+[v1.2.0]: https://github.com/aadhi0612/iritamod/releases/tag/v1.2.0
+[v1.1.1]: https://github.com/aadhi0612/iritamod/releases/tag/v1.1.1
+[v1.1.0]: https://github.com/aadhi0612/iritamod/releases/tag/v1.1.0
+[v1.0.0]: https://github.com/aadhi0612/iritamod/releases/tag/v1.0.0
 
 <!-- Pull request links -->
-[#33]: https://github.com/bianjieai/iritamod/pull/33
-[#32]: https://github.com/bianjieai/iritamod/pull/32
-[#30]: https://github.com/bianjieai/iritamod/pull/30
+[#33]: https://github.com/aadhi0612/iritamod/pull/33
+[#32]: https://github.com/aadhi0612/iritamod/pull/32
+[#30]: https://github.com/aadhi0612/iritamod/pull/30

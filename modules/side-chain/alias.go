@@ -1,8 +1,8 @@
 package sidechain
 
 import (
-	"github.com/bianjieai/iritamod/modules/node/keeper"
-	"github.com/bianjieai/iritamod/modules/side-chain/types"
+	"github.com/aadhi0612/iritamod/modules/node/keeper"
+	"github.com/aadhi0612/iritamod/modules/side-chain/types"
 )
 
 const (

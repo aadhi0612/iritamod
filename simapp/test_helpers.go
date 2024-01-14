@@ -33,8 +33,8 @@ import (
 	minttypes "github.com/cosmos/cosmos-sdk/x/mint/types"
 	stakingtypes "github.com/cosmos/cosmos-sdk/x/staking/types"
 
-	"github.com/bianjieai/iritamod/modules/node"
-	"github.com/bianjieai/iritamod/modules/perm"
+	"github.com/aadhi0612/iritamod/modules/node"
+	"github.com/aadhi0612/iritamod/modules/perm"
 )
 
 const BondDenom = sdk.DefaultBondDenom

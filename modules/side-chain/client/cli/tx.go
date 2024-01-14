@@ -10,7 +10,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/version"
 	"github.com/spf13/cobra"
 
-	"github.com/bianjieai/iritamod/modules/side-chain/types"
+	"github.com/aadhi0612/iritamod/modules/side-chain/types"
 )
 
 func NewTxCmd() *cobra.Command {

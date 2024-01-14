@@ -7,7 +7,7 @@ import (
 	upgradekeeper "github.com/cosmos/cosmos-sdk/x/upgrade/keeper"
 	upgradetypes "github.com/cosmos/cosmos-sdk/x/upgrade/types"
 
-	"github.com/bianjieai/iritamod/modules/upgrade/types"
+	"github.com/aadhi0612/iritamod/modules/upgrade/types"
 )
 
 type Keeper struct {

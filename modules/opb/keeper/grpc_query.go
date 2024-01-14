@@ -5,7 +5,7 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/bianjieai/iritamod/modules/opb/types"
+	"github.com/aadhi0612/iritamod/modules/opb/types"
 )
 
 var _ types.QueryServer = Keeper{}

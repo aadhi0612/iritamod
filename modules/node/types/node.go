@@ -9,7 +9,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 
-	cautils "github.com/bianjieai/iritamod/utils/ca"
+	cautils "github.com/aadhi0612/iritamod/utils/ca"
 )
 
 // NewNode contructs a new Node instance

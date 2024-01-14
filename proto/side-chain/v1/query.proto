@@ -7,7 +7,7 @@ import "google/api/annotations.proto";
 import "side-chain/v1/side-chain.proto";
 import "cosmos/query/pagination.proto";
 
-option go_package = "github.com/bianjieai/iritamod/modules/side-chain/types";
+option go_package = "github.com/aadhi0612/iritamod/modules/side-chain/types";
 
 // Query defines the gRPC querier service for side-chain module.
 service Query {

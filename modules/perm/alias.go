@@ -1,8 +1,8 @@
 package perm
 
 import (
-	"github.com/bianjieai/iritamod/modules/perm/keeper"
-	"github.com/bianjieai/iritamod/modules/perm/types"
+	"github.com/aadhi0612/iritamod/modules/perm/keeper"
+	"github.com/aadhi0612/iritamod/modules/perm/types"
 )
 
 const (

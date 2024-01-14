@@ -18,9 +18,9 @@ import (
 	"github.com/cosmos/cosmos-sdk/types/module"
 	simtypes "github.com/cosmos/cosmos-sdk/types/simulation"
 
-	"github.com/bianjieai/iritamod/modules/opb/client/cli"
-	"github.com/bianjieai/iritamod/modules/opb/keeper"
-	"github.com/bianjieai/iritamod/modules/opb/types"
+	"github.com/aadhi0612/iritamod/modules/opb/client/cli"
+	"github.com/aadhi0612/iritamod/modules/opb/keeper"
+	"github.com/aadhi0612/iritamod/modules/opb/types"
 )
 
 var (

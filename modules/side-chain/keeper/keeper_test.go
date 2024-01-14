@@ -9,10 +9,10 @@ import (
 	"github.com/tendermint/tendermint/crypto/tmhash"
 	tmproto "github.com/tendermint/tendermint/proto/tendermint/types"
 
-	"github.com/bianjieai/iritamod/modules/perm"
-	permtypes "github.com/bianjieai/iritamod/modules/perm/types"
-	"github.com/bianjieai/iritamod/modules/side-chain/keeper"
-	"github.com/bianjieai/iritamod/simapp"
+	"github.com/aadhi0612/iritamod/modules/perm"
+	permtypes "github.com/aadhi0612/iritamod/modules/perm/types"
+	"github.com/aadhi0612/iritamod/modules/side-chain/keeper"
+	"github.com/aadhi0612/iritamod/simapp"
 )
 
 var (

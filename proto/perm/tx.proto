@@ -4,7 +4,7 @@ package iritamod.perm;
 import "perm/perm.proto";
 import "gogoproto/gogo.proto";
 
-option go_package = "github.com/bianjieai/iritamod/modules/perm/types";
+option go_package = "github.com/aadhi0612/iritamod/modules/perm/types";
 option (gogoproto.goproto_getters_all) = false;
 
 // Msg defines the perm Msg service.

@@ -7,7 +7,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 
-	"github.com/bianjieai/iritamod/modules/opb/types"
+	"github.com/aadhi0612/iritamod/modules/opb/types"
 )
 
 // NewQuerier creates a new OPB Querier instance

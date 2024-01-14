@@ -5,8 +5,8 @@ import (
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 	paramskeeper "github.com/cosmos/cosmos-sdk/x/params/keeper"
 
-	"github.com/bianjieai/iritamod/modules/params/keeper"
-	"github.com/bianjieai/iritamod/modules/params/types"
+	"github.com/aadhi0612/iritamod/modules/params/keeper"
+	"github.com/aadhi0612/iritamod/modules/params/types"
 )
 
 // NewHandler creates an sdk.Handler for all the params type messages

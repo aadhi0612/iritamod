@@ -17,9 +17,9 @@ import (
 	"github.com/spf13/cobra"
 	abci "github.com/tendermint/tendermint/abci/types"
 
-	"github.com/bianjieai/iritamod/modules/side-chain/client/cli"
-	"github.com/bianjieai/iritamod/modules/side-chain/keeper"
-	"github.com/bianjieai/iritamod/modules/side-chain/types"
+	"github.com/aadhi0612/iritamod/modules/side-chain/client/cli"
+	"github.com/aadhi0612/iritamod/modules/side-chain/keeper"
+	"github.com/aadhi0612/iritamod/modules/side-chain/types"
 )
 
 var (

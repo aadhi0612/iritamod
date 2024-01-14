@@ -18,9 +18,9 @@ import (
 	simtypes "github.com/cosmos/cosmos-sdk/types/simulation"
 	"github.com/cosmos/cosmos-sdk/x/params/types/proposal"
 
-	"github.com/bianjieai/iritamod/modules/params/client/cli"
-	"github.com/bianjieai/iritamod/modules/params/keeper"
-	"github.com/bianjieai/iritamod/modules/params/types"
+	"github.com/aadhi0612/iritamod/modules/params/client/cli"
+	"github.com/aadhi0612/iritamod/modules/params/keeper"
+	"github.com/aadhi0612/iritamod/modules/params/types"
 )
 
 var (
@@ -56,13 +56,13 @@ func (AppModuleBasic) RegisterInterfaces(registry codectypes.InterfaceRegistry) 
 	types.RegisterInterfaces(registry)
 }
 
-//TODO
+// TODO
 func (AppModuleBasic) DefaultGenesis(codec.JSONCodec) json.RawMessage {
 	return nil
 
 }
 
-//TODO
+// TODO
 func (AppModuleBasic) ValidateGenesis(codec.JSONCodec, client.TxEncodingConfig, json.RawMessage) error {
 	return nil
 }

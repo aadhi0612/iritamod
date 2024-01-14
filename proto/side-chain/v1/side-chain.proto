@@ -3,7 +3,7 @@ package iritamod.side_chain.v1;
 
 import "gogoproto/gogo.proto";
 
-option go_package = "github.com/bianjieai/iritamod/modules/side-chain/types";
+option go_package = "github.com/aadhi0612/iritamod/modules/side-chain/types";
 
 // Space defines the space info of the side-chain module
 message Space {
